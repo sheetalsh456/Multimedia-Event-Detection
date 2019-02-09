@@ -1,0 +1,4 @@
+MFCC and ASR features can be created with the command : sh run.feature.sh
+Models can be trained on these features with the command : sh run.med.sh
+
+The commands to run the individual python files are mentioned in the scripts. 
