@@ -1,0 +1,33 @@
+# Paths
+# all_video_names: /project/hsr/sshalini/LSMA/11775-hws_old/hw1_code/list/all.video
+# video_path: /data/VOL4/sshalini/data/speech-kitchen.org/sdalmia/11775_videos/video
+# downsampled_videos: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/downsampled_videos
+# surf_features: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/surf
+
+# # downsampling
+# downsampling_frame_len: 60
+# downsampling_frame_rate: 15
+# keyframe_interval: 5
+
+# # surf
+# hessian_threshold: 400
+# kmeans_cluster_num: 256
+
+
+# Paths
+all_video_names: /data/VOL4/ashwinsr/11775-hws/hw2_code/list/all.video
+video_path: /data/VOL4/sshalini/data/speech-kitchen.org/sdalmia/11775_videos/video
+downsampled_videos: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/downsampled_videos
+downsampled_videos_new: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/downsampled_videos_new
+
+surf_features: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/surf
+cnn_features: /project/hsr/sshalini/LSMA/11775-hws/hw2_code/cnn
+
+# downsampling
+downsampling_frame_len: 60
+downsampling_frame_rate: 15
+keyframe_interval: 5
+
+# surf
+hessian_threshold: 1000
+kmeans_cluster_num: 256
