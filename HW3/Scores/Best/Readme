@@ -1,0 +1,2 @@
+These files give the best MAP on val set and best accuracy on test set.
+They are an Early Fusion of MFCC + Resnet + Places
